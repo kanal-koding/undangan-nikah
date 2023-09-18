@@ -501,16 +501,16 @@ i.bi-disc {
     } */
 
     .timeline li .timeline-image {
-        width: 120px;
-        height: 120px;
+        width: 100px;
+        height: 100px;
     }
 
     .timeline li .timeline-panel::before {
-        top: 60px;
+        top: 50px;
     }
 
     .timeline li .timeline-panel::after {
-        top: 61px;
+        top: 51px;
     }
     
 }
@@ -522,26 +522,26 @@ i.bi-disc {
     }
 
     .simply-countdown>.simply-section {
-        padding: 45px;
+        padding: 40px;
         margin: 3px;
     }
 
     .timeline li .timeline-image {
-        width: 110px;
-        height: 110px;
+        width: 80px;
+        height: 80px;
     }
     
 
     .timeline li .timeline-panel {
-        width: 60%;
+        width: 50%;
         transform: translateX(-10px);
     }
 
     .timeline li .timeline-panel::before {
-        top: 50px;
+        top: 40px;
     }
 
     .timeline li .timeline-panel::after {
-        top: 51px;
+        top: 41px;
     }
 }
